@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KaGz8Z8lqBblbyQnM2xl-4" value="&lt;div style=&quot;line-height: 100%;&quot; align=&quot;left&quot;&gt;&lt;font&gt;参考链接：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot; align=&quot;left&quot;&gt;&lt;h1 style=&quot;line-height: 100%;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;从Cookie中读取Sessionid,根据sessionid查询信息全流程分析: &lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;https://blog.csdn.net/u014534808/article/details/105583877&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 100%;&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;生成session，保存session，写入cookie全流程分析: &lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;https://feige.blog.csdn.net/article/details/105479385&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="900" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
