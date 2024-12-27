@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="第 1 页" id="IAnLnTf9p1ChP3XtXo86">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="81jeUQZPbJ0HVAU0JPYO-1" value="&lt;div&gt;飞书开放平台&lt;/div&gt;&lt;div&gt;https://open.feishu.cn/app&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81jeUQZPbJ0HVAU0JPYO-2" value="企业自建应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81jeUQZPbJ0HVAU0JPYO-3" value="&lt;label style=&quot;-webkit-line-clamp: 2;&quot; class=&quot;ud__text ud-typography-body-0 u14wgoeq u238cxi umt1vhq u5k1dk9 u1h2w2e3 u1f3wrh8 uxkbsdt udz62fk u6rw91u u1urq0v1 uktmkt9 u1mlhetb&quot;&gt;&lt;div class=&quot;block-item__label mr-1 g__ts-n0&quot;&gt;&lt;span&gt;App ID&amp;amp;&lt;/span&gt;&lt;/div&gt;&lt;/label&gt;&lt;label style=&quot;-webkit-line-clamp: 2;&quot; class=&quot;ud__text ud-typography-body-0 u14wgoeq u238cxi umt1vhq u5k1dk9 u1h2w2e3 u1f3wrh8 uxkbsdt udz62fk u6rw91u u1urq0v1 uktmkt9 u1mlhetb&quot;&gt;&lt;div class=&quot;block-item__label mr-1 g__ts-n0&quot;&gt;&lt;span&gt;App Secret&lt;/span&gt;&lt;/div&gt;&lt;/label&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81jeUQZPbJ0HVAU0JPYO-4" value="&lt;div align=&quot;left&quot;&gt;为了使机器人具有收发消息的基础功能，请在“权限管理”面板中开通以下权限：&lt;br&gt;&lt;br&gt;获取与发送单聊、群组消息：开通该权限后，机器人可以向用户发送单聊消息，或向机器人所在的群聊发送群消息；&lt;br&gt;添加“接收消息”事件（前往“事件订阅”面板 &amp;gt; 添加事件 &amp;gt; 消息与群组）后，机器人便可接收用户发送的单聊消息。&lt;br&gt;获取用户在群组中@机器人的消息：开通该权限，并添加“接收消息”事件（前往“事件订阅”面板 &amp;gt; 添加事件 &amp;gt; 消息与群组）后，可接收用户在群聊中@机器人的消息。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="970" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
