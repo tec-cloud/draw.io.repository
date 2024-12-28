@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="第 1 页" id="dYxHSfxzeBDMu5DyJhBB">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-1" target="jbHdm-2BLlTxvQoLprLs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-1" target="jbHdm-2BLlTxvQoLprLs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-1" value="TaskApi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-2" target="jbHdm-2BLlTxvQoLprLs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-2" target="jbHdm-2BLlTxvQoLprLs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-2" target="jbHdm-2BLlTxvQoLprLs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-2" target="jbHdm-2BLlTxvQoLprLs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-2" value="TaskService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-3" target="jbHdm-2BLlTxvQoLprLs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-3" target="jbHdm-2BLlTxvQoLprLs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="jbHdm-2BLlTxvQoLprLs-3" target="jbHdm-2BLlTxvQoLprLs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-3" value="TaskOperationService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-4" value="TaskDao" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-5" value="TaskYamlHelper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-12" value="FlinkServerFacade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-14" value="DeployHistoryService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHdm-2BLlTxvQoLprLs-22" value="DataSourceConfigService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
